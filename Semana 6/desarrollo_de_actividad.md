@@ -1,0 +1,6 @@
+La Asociación de Médicos del país planea realizar unas elecciones para escoger la directiva de los próximos 3 año, proceso para el cual deben tener un registro automatizados de todos los médicos adscritos a dicha asociación, incluyendo las siguientes variables: nombre, apellido, RUT, sexo, dirección y edad.
+Con financiamiento propio, se contrata un grupo de expertos en programación para que desarrollen el registro en Python, en donde estás incluido.
+A continuación, responde:
+1. Describe detalladamente la instalación y configuración de la librería pertinente en Python para elaborar el registro.
+2. Construye un conjunto de datos cualquiera con las variables señaladas en el planteamiento y luego ejecuta las operaciones necesarias para dividir el conjunto de datos en dos subconjuntos, el primero de ellos con los datos del sexo masculino y el segundo con los del sexo femenino.
+3. Consolida los dos subconjuntos de datos creados en la pregunta anterior en un solo conjunto, haciendo uso del método respectivo.
